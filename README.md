@@ -16,4 +16,4 @@ bundle install
 Run from terminal with `ruby main.rb`
 
 ## Testing
-Run tests with `rake spec``
+Run tests with `rake spec`

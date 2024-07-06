@@ -4,10 +4,16 @@ This is a simple Sinatra application template designed to demonstrate basic web 
 
 ## Installation
 
-To get started, clone the repository and install the necessary gems using Bundler:
+To get started, hit the github button that says "use this template" then:
 
 ```sh
-git clone https://github.com/lcuevastodoit/sinatra-template.git
-cd sinatra-template
+git clone https://github.com/tour-username/your-repo.git
+cd your repo
 bundle install
 ```
+
+## Runnning
+Run from terminal with `ruby main.rb`
+
+## Testing
+Run tests with `rake spec``
